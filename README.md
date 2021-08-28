@@ -34,7 +34,7 @@ Easygoing, outgoing but sometimes impetuous. A sheer pessimist.
 <img alt="Pt" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white"/><img alt="Redis" src="https://img.shields.io/badge/redis-CC0000.svg?&style=for-the-badge&logo=redis&logoColor=white"/><img alt="NGINX" src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/> 
 
 #### More Info:
-+ Used to study stm32 with Keil/Clion and digital and analog.
++ Used to study stm32 with Keil/Clion and digital and analog circuit.
 + Have a little experience of Opencv4 and yolov5.
 + Basic japanese and just so-so English.
 + Good at handwriting.
