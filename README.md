@@ -1,5 +1,3 @@
-# 当你在抄袭代码的时候好好想一想，这和你去商店偷东西有什么区别。
-
 ### Who I am😄
 I'm an undergraduate from Shanghai Jiao Tong University and I initially majored in Information Engineering in the first year, but then I have changed my major to Software Engineering, in which I'm quite interested.
 
