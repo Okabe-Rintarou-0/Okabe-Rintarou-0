@@ -19,7 +19,7 @@ Easygoing, outgoing but sometimes impetuous. A sheer pessimist.
 
 ### Technoledge Stack🤔
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Okabe-Rintarou-0&layout=compact&langs_count=8&hide=TeX,Makefile,CMake,Perl,Shell)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Okabe-Rintarou-0&layout=compact&langs_count=8&hide=TeX,Makefile,CMake,Perl,Shell&theme=dracula)
 
 ##### Relatively good at:
 
@@ -36,6 +36,6 @@ Easygoing, outgoing but sometimes impetuous. A sheer pessimist.
 + Good at handwriting.
 + Love reading poems.
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Okabe-Rintarou-0&show_icons=true&theme=gradiant)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Okabe-Rintarou-0&show_icons=true&theme=dracula)
 
 
