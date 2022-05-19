@@ -15,8 +15,9 @@ Easygoing, outgoing but sometimes impetuous. A sheer pessimist.
 
 + Games (Legue of legends (Have played for 8 years), Oxygen not included, Minecraft, Don't starve together...)
 
-#### Welcome to play with me in steam or chat with me in reality.
-
+### Weekly Development Breakdown
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 ### Technoledge Stack🤔
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Okabe-Rintarou-0&layout=compact&langs_count=8&hide=TeX,Makefile,CMake,Perl,Shell&theme=dracula)
@@ -26,6 +27,8 @@ Easygoing, outgoing but sometimes impetuous. A sheer pessimist.
 <img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/> <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/> <img alt="Pt" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>  <img alt="C" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
 <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/> 
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Okabe-Rintarou-0&show_icons=true&theme=dracula)
-
+<details>
+  <summary>My GitHub stats</summary>
+  <img src = "https://github-readme-stats.vercel.app/api?username=Okabe-Rintarou-0&show_icons=true&theme=dracula" />
+</details>
 
