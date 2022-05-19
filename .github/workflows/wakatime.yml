@@ -11,6 +11,6 @@ jobs:
     name: Update this repo's README
     runs-on: ubuntu-latest
     steps:
-      - uses: athul/waka-readme@master
+      - uses: Okabe-Rintarou-0/Okabe-Rintarou-0@main
         with:
           WAKATIME_API_KEY: e0d5b5f4-5123-4104-838a-1f2c53b2e6bc
