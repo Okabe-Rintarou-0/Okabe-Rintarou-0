@@ -19,12 +19,12 @@ Easygoing, outgoing but sometimes impetuous. A sheer pessimist.
 <!--START_SECTION:waka-->
 
 ```text
-Go             13 hrs 9 mins   █████████████▓░░░░░░░░░░░   54.12 %
-Markdown       9 hrs 4 mins    █████████▒░░░░░░░░░░░░░░░   37.31 %
-textmate       25 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.77 %
-Cuda           24 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.71 %
-JSON           23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.59 %
-Docker         19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.30 %
+Go             13 hrs 50 mins  █████████████▓░░░░░░░░░░░   54.77 %
+Markdown       9 hrs 20 mins   █████████▒░░░░░░░░░░░░░░░   36.96 %
+textmate       25 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.71 %
+Cuda           24 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.65 %
+JSON           23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.53 %
+Docker         19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.26 %
 ```
 
 <!--END_SECTION:waka-->
