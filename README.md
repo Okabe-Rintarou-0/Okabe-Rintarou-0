@@ -19,12 +19,12 @@ Easygoing, outgoing but sometimes impetuous. A sheer pessimist.
 <!--START_SECTION:waka-->
 
 ```text
-C++            4 hrs 47 mins   ███████████████████░░░░░░   76.56 %
-Go             34 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.20 %
-Bash           23 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.26 %
-Markdown       10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.83 %
-ObjectiveC     7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.02 %
-Python         4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.08 %
+C++              6 hrs 53 mins   █████████████████▓░░░░░░░   70.98 %
+Markdown         53 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.16 %
+Go               34 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.93 %
+Bash             25 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 %
+Text             14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.45 %
+ObjectiveC       13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.32 %
 ```
 
 <!--END_SECTION:waka-->
