@@ -19,12 +19,8 @@ Easygoing, outgoing but sometimes impetuous. A sheer pessimist.
 <!--START_SECTION:waka-->
 
 ```text
-Rust                   4 hrs 21 mins   ███████████████████░░░░░░   75.39 %
-C++                    49 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.17 %
-Markdown               26 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.61 %
-Android RenderScript   7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.18 %
-GitIgnore file         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 %
-ObjectiveC             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+Rust       1 hr 40 mins    █████████████████████████   99.96 %
+Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
 ```
 
 <!--END_SECTION:waka-->
