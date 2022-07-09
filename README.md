@@ -19,8 +19,7 @@ Easygoing, outgoing but sometimes impetuous. A sheer pessimist.
 <!--START_SECTION:waka-->
 
 ```text
-Rust       1 hr 40 mins    █████████████████████████   99.96 %
-Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+Rust   15 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
