@@ -19,8 +19,12 @@ Easygoing, outgoing but sometimes impetuous. A sheer pessimist.
 <!--START_SECTION:waka-->
 
 ```text
-Markdown   1 hr 8 mins     █████████████████████████   99.66 %
-C++        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
+Markdown       1 hr 9 mins     ██████████████████▒░░░░░░   72.74 %
+C++            16 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.66 %
+Bash           8 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.55 %
+Shell Script   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.89 %
+Python         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
+ObjectiveC     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
 
 <!--END_SECTION:waka-->
