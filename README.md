@@ -19,12 +19,12 @@ Easygoing, outgoing but sometimes impetuous. A sheer pessimist.
 <!--START_SECTION:waka-->
 
 ```text
-C++            32 mins         █████████████▓░░░░░░░░░░░   55.27 %
-Bash           8 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.95 %
-Go             6 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.65 %
-Markdown       6 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   11.01 %
-Rust           3 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.40 %
-Shell Script   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.45 %
+Python             2 hrs 49 mins   ████████████░░░░░░░░░░░░░   47.79 %
+C++                1 hr 55 mins    ████████░░░░░░░░░░░░░░░░░   32.51 %
+Bash               21 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.94 %
+Go                 13 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 %
+Shell Script       9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.64 %
+Rust               7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.10 %
 ```
 
 <!--END_SECTION:waka-->
