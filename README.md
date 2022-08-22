@@ -1,19 +1,9 @@
 ### Who I am😄
-I'm an undergraduate from Shanghai Jiao Tong University and I initially majored in Information Engineering in the first year, but then I have changed my major to Software Engineering, in which I'm quite interested.
+I'm an undergraduate from Shanghai Jiao Tong University and I major in Software Engineering.
 
-### Personal Character
-Easygoing, outgoing but sometimes impetuous. A sheer pessimist.
+I'm learning Golang and Rust. These two young languages stand for two different philosophy, quite interesting.
 
-### Hobbies👯
-+ Coding (At most time, except for doing the lab Orz)
-
-+ Animation (My favour: Mushishi, Steins;Gate)
-
-+ Movies (My favour: Interstellar, Inception)
-
-+ Sports (Swimming, Baseball)
-
-+ Games (Legue of legends (Have played for 8 years), Oxygen not included, Minecraft, Don't starve together...)
+<img src="https://images.squarespace-cdn.com/content/v1/5e10bdc20efb8f0d169f85f9/1632583991063-DG67R13E0S7XK244CSVE/rust-vs-go.png" height="300em"/>
 
 ### Weekly Development Breakdown
 <!--START_SECTION:waka-->
