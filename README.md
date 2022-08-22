@@ -1,7 +1,7 @@
 ### Who I am😄
 I'm an undergraduate from Shanghai Jiao Tong University and I major in Software Engineering.
 
-I'm learning Golang and Rust. These two young languages stand for two different philosophy, quite interesting.
+I'm learning Golang and Rust. These two young languages stand for two different philosophy. Quite interesting.
 
 <img src="https://images.squarespace-cdn.com/content/v1/5e10bdc20efb8f0d169f85f9/1632583991063-DG67R13E0S7XK244CSVE/rust-vs-go.png" height="300em"/>
 
