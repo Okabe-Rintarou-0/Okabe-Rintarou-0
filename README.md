@@ -9,12 +9,12 @@ I'm learning Golang and Rust. These two young languages stand for two different 
 <!--START_SECTION:waka-->
 
 ```text
-Go            9 hrs 18 mins   ███████████████░░░░░░░░░░   60.47 %
-C++           5 hrs 34 mins   █████████░░░░░░░░░░░░░░░░   36.26 %
-YAML          25 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.76 %
-Rust          4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 %
-go.mod        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
-Objective-C   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+Go       4 hrs 54 mins   ████████████▒░░░░░░░░░░░░   49.00 %
+C++      4 hrs 5 mins    ██████████▒░░░░░░░░░░░░░░   40.87 %
+Python   45 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.55 %
+YAML     15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.58 %
+go.mod   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Text     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
