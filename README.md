@@ -9,9 +9,7 @@ I'm learning Golang and Rust. These two young languages stand for two different 
 <!--START_SECTION:waka-->
 
 ```text
-C++      4 hrs 5 mins    ███████████████░░░░░░░░░░   60.21 %
-Go       1 hr 56 mins    ███████░░░░░░░░░░░░░░░░░░   28.66 %
-Python   45 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.13 %
+Python   45 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
