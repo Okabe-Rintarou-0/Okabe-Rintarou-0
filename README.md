@@ -5,12 +5,12 @@ I'm an undergraduate from Shanghai Jiao Tong University and I major in Software 
 <!--START_SECTION:waka-->
 
 ```text
-Java             19 hrs 4 mins   █████████████████████▓░░░   86.60 %
-Python           2 hrs           ██▒░░░░░░░░░░░░░░░░░░░░░░   09.14 %
-Text             31 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.38 %
-Properties       10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.80 %
-JSON             5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 %
-GitIgnore file   4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
+Java             12 hrs 14 mins  ████████████████████▒░░░░   81.46 %
+Python           2 hrs           ███▒░░░░░░░░░░░░░░░░░░░░░   13.40 %
+Text             24 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.72 %
+Properties       10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.18 %
+GitIgnore file   4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 %
+JSON             2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
 ```
 
 <!--END_SECTION:waka-->
