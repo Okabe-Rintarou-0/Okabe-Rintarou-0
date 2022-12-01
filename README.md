@@ -1,7 +1,7 @@
 <div>
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Okabe-Rintarou-0&layout=compact&langs_count=8&hide=TeX,Makefile,CMake,Perl,Shell&theme=dracula" height="150px" />
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Okabe-Rintarou-0&layout=compact&langs_count=8&hide=TeX,Makefile,CMake,Perl,Shell&theme=dracula" height="180px" />
   
-  <img src = "https://github-readme-stats.vercel.app/api?username=Okabe-Rintarou-0&show_icons=true&theme=dracula" height="150px" />
+  <img src = "https://github-readme-stats.vercel.app/api?username=Okabe-Rintarou-0&show_icons=true&theme=dracula" height="180px" />
   
 </div>
 
