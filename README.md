@@ -1,11 +1,27 @@
-<div>
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Okabe-Rintarou-0&layout=compact&langs_count=8&hide=TeX,Makefile,CMake,Perl,Shell&theme=dracula" height="180px" />
-  
-  <img src = "https://github-readme-stats.vercel.app/api?username=Okabe-Rintarou-0&show_icons=true&theme=dracula" height="180px" />
-  
-</div>
+### Hi there 👋
 
-### Weekly Development Breakdown
+[![GitHub](https://img.shields.io/github/followers/Okabe-Rintarou-0?style=social)](https://github.com/Okabe-Rintarou-0) [![GitHub](https://img.shields.io/github/stars/Okabe-Rintarou-0?style=social)](https://github.com/Okabe-Rintarou-0)
+
+I am an undergraduate (and will be an postgraduate) from SJTU, 22 years old and 6 years of coding. I learn everything that I am interested in, Web, AI, OS...
+
+----
+
+### Languages and Tools
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Okabe-Rintarou-0&layout=compact&langs_count=12&hide=makefile,tex,perl,shell)
+
+----
+### "Touch-Fish" Record
+
+
 <!--START_SECTION:waka-->
 
 ```text
@@ -18,10 +34,5 @@ CMake            57 mins         ▓░░░░░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
-
-<p align="center">
-    <img src="https://wakatime.com/share/@c0fc2eae-3121-4f9e-8064-2a0f57352f62/e973be70-27aa-421b-88f5-96824ac76947.svg" height="300em"/>
-    <img src="https://wakatime.com/share/@c0fc2eae-3121-4f9e-8064-2a0f57352f62/602e3ec4-11ce-4368-87bc-684fd89aaebb.svg" height="300em"/>
-</p>
 
 
