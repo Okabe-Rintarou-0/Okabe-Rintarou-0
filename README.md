@@ -32,12 +32,12 @@ I am an undergraduate (and will be an postgraduate) from SJTU, 22 years old and 
 <!--START_SECTION:waka-->
 
 ```text
-C++              14 hrs 30 mins  ███████████▒░░░░░░░░░░░░░   44.79 %
-Java             7 hrs 20 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.66 %
-ObjectiveC       2 hrs 40 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.26 %
-C                2 hrs 18 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.13 %
-Python           1 hr 14 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 %
-CMake            57 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.98 %
+C++              11 hrs 42 mins  ██████████▓░░░░░░░░░░░░░░   42.66 %
+Java             7 hrs 20 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.75 %
+ObjectiveC       1 hr 47 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.52 %
+C                1 hr 43 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.31 %
+CMake            56 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 %
+Python           50 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.08 %
 ```
 
 <!--END_SECTION:waka-->
