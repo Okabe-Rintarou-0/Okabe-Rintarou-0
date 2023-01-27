@@ -32,8 +32,7 @@ I am an undergraduate (and will be an postgraduate) from SJTU, 22 years old and 
 <!--START_SECTION:waka-->
 
 ```text
-Python   14 mins         █████████████████████▒░░░   84.97 %
-C++      2 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   15.03 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
