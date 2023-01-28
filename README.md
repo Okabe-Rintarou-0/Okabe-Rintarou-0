@@ -32,7 +32,10 @@ I am an undergraduate (and will be an postgraduate) from SJTU, 22 years old and 
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+C++          46 mins         █████████████████▒░░░░░░░   68.77 %
+C            10 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.01 %
+ObjectiveC   8 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.30 %
+JSON         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.93 %
 ```
 
 <!--END_SECTION:waka-->
