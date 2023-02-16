@@ -2,7 +2,7 @@
 
 [![GitHub](https://img.shields.io/github/followers/Okabe-Rintarou-0?style=social)](https://github.com/Okabe-Rintarou-0) [![GitHub](https://img.shields.io/github/stars/Okabe-Rintarou-0?style=social)](https://github.com/Okabe-Rintarou-0)
 
-I am an undergraduate (and will be an postgraduate) from SJTU, 22 years old and 6 years of coding. I learn everything that I am interested in, Web, AI, OS...
+I am an undergraduate (and will be a postgraduate) from SJTU, 22 years old and 6 years of coding. I learn everything that I am interested in, Web, AI, OS...
 
 <img src="https://little.kylerconway.com/images/golang-what.gif" width="350" align="right"/>
 
