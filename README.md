@@ -34,12 +34,12 @@ I am an undergraduate (and will be a postgraduate) from SJTU, 22 years old and 6
 <!--START_SECTION:waka-->
 
 ```text
-Dart             20 hrs 43 mins  ████████▒░░░░░░░░░░░░░░░░   33.33 %
-Go               15 hrs 23 mins  ██████▒░░░░░░░░░░░░░░░░░░   24.76 %
-C++              8 hrs 14 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.24 %
-Python           4 hrs 45 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.64 %
-YAML             2 hrs 12 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 %
-SQL              1 hr 40 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.68 %
+Dart             16 hrs 30 mins  ███████▒░░░░░░░░░░░░░░░░░   28.91 %
+Go               16 hrs 21 mins  ███████░░░░░░░░░░░░░░░░░░   28.65 %
+C++              8 hrs 56 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.65 %
+Python           2 hrs 34 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.51 %
+SQL              1 hr 59 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 %
+YAML             1 hr 58 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 %
 ```
 
 <!--END_SECTION:waka-->
