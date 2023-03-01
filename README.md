@@ -4,9 +4,17 @@
 
 I am an undergraduate (and will be a postgraduate) from SJTU, 22 years old and 6 years of coding. I learn everything that I am interested in, Web, AI, OS...
 
-[[Resume]](https://okabe-rintarou-0.github.io/%E7%AE%80%E5%8E%86.pdf)
+I love making some simple games:
+
++ [【2023战双新春会】住手啊！阿尔法你不要再打了！！](https://www.bilibili.com/video/BV1GG4y127S1/?spm_id_from=333.999.0.0)
+
++ [【像素原神】肉鸽模式 游戏预告](https://www.bilibili.com/video/BV13v411g7zv/?spm_id_from=333.337.search-card.all.click)
 
 <img src="https://little.kylerconway.com/images/golang-what.gif" width="350" align="right"/>
+
+Contact me:
+
+[[Resume]](https://okabe-rintarou-0.github.io/%E7%AE%80%E5%8E%86.pdf) [[Email]](923048992@sjtu.edu.cn) [[Bilibili]](https://space.bilibili.com/5200237/video?tid=0&page=2&keyword=&order=pubdate)
 
 ----
 
