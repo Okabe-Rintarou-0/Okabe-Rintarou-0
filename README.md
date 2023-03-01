@@ -4,6 +4,8 @@
 
 I am an undergraduate (and will be a postgraduate) from SJTU, 22 years old and 6 years of coding. I learn everything that I am interested in, Web, AI, OS...
 
+[[Resume]](https://okabe-rintarou-0.github.io/%E7%AE%80%E5%8E%86.pdf)
+
 <img src="https://little.kylerconway.com/images/golang-what.gif" width="350" align="right"/>
 
 ----
