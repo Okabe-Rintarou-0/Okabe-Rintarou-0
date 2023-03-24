@@ -14,7 +14,7 @@ I love making some simple games:
 
 Contact me:
 
-[Resume](https://okabe-rintarou-0.github.io/%E7%AE%80%E5%8E%86.pdf) | [Email](mailto:923048992@sjtu.edu.cn) | [Bilibili](https://space.bilibili.com/5200237)
+[Resume(Chinese)](https://okabe-rintarou-0.github.io/%E7%AE%80%E5%8E%86.pdf) | [Resume(English)](https://okabe-rintarou-0.github.io/resume.pdf) | [Email](mailto:923048992@sjtu.edu.cn) | [Bilibili](https://space.bilibili.com/5200237)
 
 ----
 
