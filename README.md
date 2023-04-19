@@ -2,7 +2,7 @@
 
 [![GitHub](https://img.shields.io/github/followers/Okabe-Rintarou-0?style=social)](https://github.com/Okabe-Rintarou-0) [![GitHub](https://img.shields.io/github/stars/Okabe-Rintarou-0?style=social)](https://github.com/Okabe-Rintarou-0)
 
-Star charser, Life-long learner.
+Star chaser, Life-long learner.
 
 I love making some simple games:
 
