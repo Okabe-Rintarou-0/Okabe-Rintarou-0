@@ -2,7 +2,7 @@
 
 [![GitHub](https://img.shields.io/github/followers/Okabe-Rintarou-0?style=social)](https://github.com/Okabe-Rintarou-0) [![GitHub](https://img.shields.io/github/stars/Okabe-Rintarou-0?style=social)](https://github.com/Okabe-Rintarou-0)
 
-Star chaser, Life-long learner.
+Star chaser, life-long learner.
 
 I love making some simple games:
 
@@ -14,8 +14,7 @@ I love making some simple games:
 
 Contact me:
 
-[Resume(Chinese)](https://okabe-rintarou-0.github.io/%E7%AE%80%E5%8E%86.pdf) | [Resume(English)](https://okabe-rintarou-0.github.io/resume.pdf) | [Email](mailto:923048992@sjtu.edu.cn) | [Bilibili](https://space.bilibili.com/5200237)
-
+[Email](mailto:923048992@sjtu.edu.cn) | [Bilibili](https://space.bilibili.com/5200237)
 ----
 
 ### Languages and Tools
