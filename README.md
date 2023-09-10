@@ -43,10 +43,7 @@ Contact me:
 <!--START_SECTION:waka-->
 
 ```text
-Java         0 secs          ██████████████▓░░░░░░░░░░   58.58 %
-XML          0 secs          ███████░░░░░░░░░░░░░░░░░░   27.42 %
-textmate     0 secs          ███▒░░░░░░░░░░░░░░░░░░░░░   13.60 %
-Properties   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
