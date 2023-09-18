@@ -43,7 +43,9 @@ Contact me:
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Go         0 secs          ███████████████████░░░░░░   76.49 %
+Api File   0 secs          █████░░░░░░░░░░░░░░░░░░░░   20.31 %
+Markdown   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.20 %
 ```
 
 <!--END_SECTION:waka-->
