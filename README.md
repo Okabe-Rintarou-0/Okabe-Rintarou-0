@@ -43,7 +43,11 @@ Contact me:
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Java              24 mins         █████████████████████████   99.35 %
+Java Properties   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
+GitIgnore file    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
+textmate          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+XML               0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
