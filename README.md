@@ -43,12 +43,7 @@ Contact me:
 <!--START_SECTION:waka-->
 
 ```text
-Java              40 mins         ████████████████████░░░░░   79.43 %
-XML               5 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.95 %
-Java Properties   2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 %
-Properties        1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 %
-SQL               0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.88 %
-YAML              0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.44 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
