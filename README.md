@@ -43,9 +43,7 @@ Contact me:
 <!--START_SECTION:waka-->
 
 ```text
-Python   54 mins         ████████████████████░░░░░   80.02 %
-JSON     6 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.13 %
-Bash     6 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.85 %
+TeX   56 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
