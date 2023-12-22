@@ -2,7 +2,7 @@
 
 [![GitHub](https://img.shields.io/github/followers/Okabe-Rintarou-0?style=social)](https://github.com/Okabe-Rintarou-0) [![GitHub](https://img.shields.io/github/stars/Okabe-Rintarou-0?style=social)](https://github.com/Okabe-Rintarou-0)
 
-Star chaser, life-long learner.
+![intro](https://github.com/Okabe-Rintarou-0/Okabe-Rintarou-0/assets/58595459/5409bc8b-7477-4307-8ea1-a3c40d3d1fdb)
 
 I love making some simple games:
 
@@ -10,11 +10,8 @@ I love making some simple games:
 
 + [【像素原神】肉鸽模式 游戏预告](https://www.bilibili.com/video/BV13v411g7zv/?spm_id_from=333.337.search-card.all.click)
 
-<img src="https://little.kylerconway.com/images/golang-what.gif" width="350" align="right"/>
+Contact me: [Email](mailto:923048992@sjtu.edu.cn) | [Bilibili](https://space.bilibili.com/5200237)
 
-Contact me:
-
-[Email](mailto:923048992@sjtu.edu.cn) | [Bilibili](https://space.bilibili.com/5200237)
 ----
 
 ### Languages and Tools
@@ -34,11 +31,11 @@ Contact me:
 <code><img height="50" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/f994c418a134b58c4aec11152f6a4a33fa89da26/programming%20languages/dart.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg"></code>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Okabe-Rintarou-0&layout=compact&langs_count=12&hide=makefile,tex,perl,shell)
-
 ----
+
 ### "Touch-Fish" Record
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Okabe-Rintarou-0&layout=compact&langs_count=12&hide=makefile,tex,perl,shell" width="250" align="right"/>
 
 <!--START_SECTION:waka-->
 
