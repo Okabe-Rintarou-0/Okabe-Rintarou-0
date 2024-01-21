@@ -33,6 +33,10 @@ Contact me: [Email](mailto:923048992@sjtu.edu.cn) | [Bilibili](https://space.bil
 
 ----
 
+### Learning
+<code><img height="50" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/042e36c55d4d757621dedc4f03108213fbb57ec4/frameworks/vuejs.svg"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/042e36c55d4d757621dedc4f03108213fbb57ec4/programming%20languages/rust.svg"></code>
+
 ### "Touch-Fish" Record
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Okabe-Rintarou-0&layout=compact&langs_count=12&hide=makefile,tex,perl,shell" width="250" align="right"/>
