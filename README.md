@@ -44,12 +44,12 @@ Contact me: [Email](mailto:923048992@sjtu.edu.cn) | [Bilibili](https://space.bil
 <!--START_SECTION:waka-->
 
 ```text
-Vue.js       11 hrs 57 mins  ███████████░░░░░░░░░░░░░░   44.32 %
-JavaScript   8 hrs 7 mins    ███████▓░░░░░░░░░░░░░░░░░   30.14 %
-Python       4 hrs 18 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.94 %
-Markdown     1 hr 20 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.95 %
-TypeScript   27 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.70 %
-JSON         16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.02 %
+Vue.js       10 hrs 39 mins  █████████████▓░░░░░░░░░░░   54.42 %
+Python       4 hrs 18 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.97 %
+JavaScript   2 hrs 44 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.98 %
+Markdown     39 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 %
+TypeScript   27 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.32 %
+JSON         16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.40 %
 ```
 
 <!--END_SECTION:waka-->
