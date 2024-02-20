@@ -44,11 +44,11 @@ Contact me: [Email](mailto:923048992@sjtu.edu.cn) | [Bilibili](https://space.bil
 <!--START_SECTION:waka-->
 
 ```text
-Rust       43 mins         ███████████████████▒░░░░░   77.31 %
-Python     11 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.32 %
-JSON       0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.16 %
-Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
-TOML       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+Rust         2 hrs 59 mins   ███████████████████▓░░░░░   78.74 %
+Python       42 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.81 %
+CSV          3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.70 %
+Git Config   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.75 %
+Text         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
