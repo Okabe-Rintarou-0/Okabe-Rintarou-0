@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-[![GitHub](https://img.shields.io/github/followers/Okabe-Rintarou-0?style=social)](https://github.com/Okabe-Rintarou-0) [![GitHub](https://img.shields.io/github/stars/Okabe-Rintarou-0?style=social)](https://github.com/Okabe-Rintarou-0)
-
-![intro](https://github.com/Okabe-Rintarou-0/Okabe-Rintarou-0/assets/58595459/5409bc8b-7477-4307-8ea1-a3c40d3d1fdb)
+![](https://pixel-profile.vercel.app/api/github-stats?username=Okabe-Rintarou-0)
 
 I love making some simple games:
 
