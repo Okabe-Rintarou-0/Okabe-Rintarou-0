@@ -4,7 +4,7 @@
 
 Interesting projects I've finished:
 + [Minik8s](https://github.com/Okabe-Rintarou-0/Minik8s) <img align="center" src="https://img.shields.io/github/stars/Okabe-Rintarou-0/Minik8s" />
-+ [基于 Tauri 开发的 SJTU Canvas 小帮手](https://github.com/Okabe-Rintarou-0/SJTU-Canvas-Helper) <img align="center" src="https://img.shields.io/github/stars/Okabe-Rintarou-0/SJTU-Canvas-Helper" />
++ [SJTU Canvas 小帮手](https://github.com/Okabe-Rintarou-0/SJTU-Canvas-Helper) <img align="center" src="https://img.shields.io/github/stars/Okabe-Rintarou-0/SJTU-Canvas-Helper" />
 + [电子书城前端](https://github.com/Okabe-Rintarou-0/BookStore-Frontend) <img align="center" src="https://img.shields.io/github/stars/Okabe-Rintarou-0/BookStore-Frontend" />
 + [电子书城前端（Vue）](https://github.com/Okabe-Rintarou-0/BookStore-Frontend-Vue) <img align="center" src="https://img.shields.io/github/stars/Okabe-Rintarou-0/BookStore-Frontend-Vue" /> 
 + [交大云盘迁移 CLI](https://github.com/Okabe-Rintarou-0/JboxTransferCLI) <img align="center" src="https://img.shields.io/github/stars/Okabe-Rintarou-0/JboxTransferCLI" />
