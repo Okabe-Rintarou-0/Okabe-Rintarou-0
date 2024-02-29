@@ -2,11 +2,24 @@
 
 ![](https://pixel-profile.vercel.app/api/github-stats?username=Okabe-Rintarou-0)
 
-I love making some simple games:
+Interesting projects I've done:
++ [Minik8s](https://github.com/Okabe-Rintarou-0/Minik8s) <img align="center" src="https://img.shields.io/github/stars/Okabe-Rintarou-0/Minik8s" />
++ [基于 Tauri 开发的 SJTU Canvas 小帮手](https://github.com/Okabe-Rintarou-0/SJTU-Canvas-Helper) <img align="center" src="https://img.shields.io/github/stars/Okabe-Rintarou-0/SJTU-Canvas-Helper" />
++ [电子书城前端](https://github.com/Okabe-Rintarou-0/BookStore-Frontend) <img align="center" src="https://img.shields.io/github/stars/Okabe-Rintarou-0/BookStore-Frontend" />
++ [电子书城前端（Vue）](https://github.com/Okabe-Rintarou-0/BookStore-Frontend-Vue) <img align="center" src="https://img.shields.io/github/stars/Okabe-Rintarou-0/BookStore-Frontend-Vue" /> 
++ [交大云盘迁移 CLI](https://github.com/Okabe-Rintarou-0/JboxTransferCLI) <img align="center" src="https://img.shields.io/github/stars/Okabe-Rintarou-0/JboxTransferCLI" />
++ [上海交通大学水源社区 client](https://github.com/Okabe-Rintarou-0/Shuiyuan-Client) <img align="center" src="https://img.shields.io/github/stars/Okabe-Rintarou-0/Shuiyuan-Client" />
++ [Gitignore-Generator(从 github/gitignore 拉取指定语言 .gitignore 文件的小工具)](https://github.com/Okabe-Rintarou-0/Gitignore-Generator)  <img align="center" src="https://img.shields.io/github/stars/Okabe-Rintarou-0/Gitignore-Generator" />
++ [【2023战双新春会】住手啊！阿尔法你不要再打了！！](https://www.bilibili.com/video/BV1GG4y127S1) <img align="center" src="https://img.shields.io/badge/dynamic/json?label=views&query=$.data.stat.view&url=https://api.bilibili.com/x/web-interface/view?bvid=BV1GG4y127S1" />
++ [【像素原神】肉鸽模式 游戏预告](https://www.bilibili.com/video/BV13v411g7zv) <img align="center" src="https://img.shields.io/badge/dynamic/json?label=views&query=$.data.stat.view&url=https://api.bilibili.com/x/web-interface/view?bvid=BV13v411g7zv" />
 
-+ [【2023战双新春会】住手啊！阿尔法你不要再打了！！](https://www.bilibili.com/video/BV1GG4y127S1/?spm_id_from=333.999.0.0)
-
-+ [【像素原神】肉鸽模式 游戏预告](https://www.bilibili.com/video/BV13v411g7zv/?spm_id_from=333.337.search-card.all.click)
+Some courses notes and projects:
++ [一个 naive LSM-KV 存储系统](https://github.com/Okabe-Rintarou-0/LSMT_KVStore) <img align="center" src="https://img.shields.io/github/stars/Okabe-Rintarou-0/LSMT_KVStore" />
++ [编译原理老虎书 labs](https://github.com/Okabe-Rintarou-0/Tiger-Compiler) <img align="center" src="https://img.shields.io/github/stars/Okabe-Rintarou-0/Tiger-Compiler" />
++ [简易 "Basic" 解释器](https://github.com/Okabe-Rintarou-0/QBasic) <img align="center" src="https://img.shields.io/github/stars/Okabe-Rintarou-0/QBasic" />
++ [计算机系统工程课程 labs](https://github.com/Okabe-Rintarou-0/CSE-labs) <img align="center" src="https://img.shields.io/github/stars/Okabe-Rintarou-0/CSE-labs" />
++ [云操作系统课程 labs](https://github.com/Okabe-Rintarou-0/Cloud-OS-labs) <img align="center" src="https://img.shields.io/github/stars/Okabe-Rintarou-0/Cloud-OS-labs" />
++ [软件工程实践课程 labs](https://github.com/Okabe-Rintarou-0/SEP-labs) <img align="center" src="https://img.shields.io/github/stars/Okabe-Rintarou-0/SEP-labs" />
 
 Contact me: [Email](mailto:923048992@sjtu.edu.cn) | [Bilibili](https://space.bilibili.com/5200237)
 
