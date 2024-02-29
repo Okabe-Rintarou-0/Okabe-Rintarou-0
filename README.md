@@ -2,7 +2,7 @@
 
 ![](https://pixel-profile.vercel.app/api/github-stats?username=Okabe-Rintarou-0)
 
-Interesting projects I've done:
+Interesting projects I've finished:
 + [Minik8s](https://github.com/Okabe-Rintarou-0/Minik8s) <img align="center" src="https://img.shields.io/github/stars/Okabe-Rintarou-0/Minik8s" />
 + [基于 Tauri 开发的 SJTU Canvas 小帮手](https://github.com/Okabe-Rintarou-0/SJTU-Canvas-Helper) <img align="center" src="https://img.shields.io/github/stars/Okabe-Rintarou-0/SJTU-Canvas-Helper" />
 + [电子书城前端](https://github.com/Okabe-Rintarou-0/BookStore-Frontend) <img align="center" src="https://img.shields.io/github/stars/Okabe-Rintarou-0/BookStore-Frontend" />
