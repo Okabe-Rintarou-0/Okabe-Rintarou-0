@@ -21,6 +21,12 @@ Some courses notes and projects:
 + [云操作系统课程 labs](https://github.com/Okabe-Rintarou-0/Cloud-OS-labs) <img align="center" src="https://img.shields.io/github/stars/Okabe-Rintarou-0/Cloud-OS-labs" />
 + [软件工程实践课程 labs](https://github.com/Okabe-Rintarou-0/SEP-labs) <img align="center" src="https://img.shields.io/github/stars/Okabe-Rintarou-0/SEP-labs" />
 
+Some open source contributions:
++ [qdrant/qdrant](https://github.com/qdrant/qdrant) <img align="center" src="https://img.shields.io/github/stars/qdrant/qdrant" />
++ [binary-husky/gpt_academic](https://github.com/binary-husky/gpt_academic) <img align="center" src="https://img.shields.io/github/stars/binary-husky/gpt_academic" />
++ [SJTU-SE/awesome-interview](https://github.com/SJTU-SE/awesome-interview) <img align="center" src="https://img.shields.io/github/stars/SJTU-SE/awesome-interview" />
++ [SJTU-SE/awesome-se](https://github.com/SJTU-SE/awesome-se) <img align="center" src="https://img.shields.io/github/stars/SJTU-SE/awesome-se" />
+
 Contact me: [Email](mailto:923048992@sjtu.edu.cn) | [Bilibili](https://space.bilibili.com/5200237)
 
 ----
