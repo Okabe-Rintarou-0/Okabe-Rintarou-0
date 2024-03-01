@@ -61,12 +61,12 @@ Contact me: [Email](mailto:923048992@sjtu.edu.cn) | [Bilibili](https://space.bil
 <!--START_SECTION:waka-->
 
 ```text
-Rust         9 hrs 29 mins   ████████████░░░░░░░░░░░░░   48.08 %
-TypeScript   7 hrs 43 mins   █████████▓░░░░░░░░░░░░░░░   39.17 %
-Markdown     40 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 %
-JSON         33 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.85 %
-JavaScript   32 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.78 %
-Python       23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.97 %
+TypeScript   11 hrs 17 mins  ████████████▒░░░░░░░░░░░░   49.81 %
+Rust         8 hrs 18 mins   █████████░░░░░░░░░░░░░░░░   36.62 %
+Python       1 hr 12 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.35 %
+Markdown     56 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 %
+JSON         34 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.52 %
+TOML         5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 %
 ```
 
 <!--END_SECTION:waka-->
