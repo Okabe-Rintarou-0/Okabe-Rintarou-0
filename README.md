@@ -9,7 +9,6 @@ Interesting projects I've finished:
 + [电子书城前端（Vue）](https://github.com/Okabe-Rintarou-0/BookStore-Frontend-Vue) <img align="center" src="https://img.shields.io/github/stars/Okabe-Rintarou-0/BookStore-Frontend-Vue" /> 
 + [交大云盘迁移 CLI](https://github.com/Okabe-Rintarou-0/JboxTransferCLI) <img align="center" src="https://img.shields.io/github/stars/Okabe-Rintarou-0/JboxTransferCLI" />
 + [上海交通大学水源社区 client](https://github.com/Okabe-Rintarou-0/Shuiyuan-Client) <img align="center" src="https://img.shields.io/github/stars/Okabe-Rintarou-0/Shuiyuan-Client" />
-+ [Gitignore-Generator(从 github/gitignore 拉取指定语言 .gitignore 文件的小工具)](https://github.com/Okabe-Rintarou-0/Gitignore-Generator)  <img align="center" src="https://img.shields.io/github/stars/Okabe-Rintarou-0/Gitignore-Generator" />
 + [【2023战双新春会】住手啊！阿尔法你不要再打了！！](https://www.bilibili.com/video/BV1GG4y127S1) <img align="center" src="https://img.shields.io/badge/dynamic/json?label=views&query=$.data.stat.view&url=https://api.bilibili.com/x/web-interface/view?bvid=BV1GG4y127S1" />
 + [【像素原神】肉鸽模式 游戏预告](https://www.bilibili.com/video/BV13v411g7zv) <img align="center" src="https://img.shields.io/badge/dynamic/json?label=views&query=$.data.stat.view&url=https://api.bilibili.com/x/web-interface/view?bvid=BV13v411g7zv" />
 
