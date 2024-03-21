@@ -60,12 +60,12 @@ Contact me: [Email](mailto:923048992@sjtu.edu.cn) | [Bilibili](https://space.bil
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript    16 hrs 17 mins  ███████████████░░░░░░░░░░   59.45 %
-Python        4 hrs 59 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.20 %
-Rust          1 hr 57 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.15 %
-Docker        48 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.96 %
-Go            46 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.83 %
-YAML          33 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.03 %
+TypeScript    14 hrs 39 mins  ████████████████▓░░░░░░░░   66.81 %
+Python        4 hrs 15 mins   █████░░░░░░░░░░░░░░░░░░░░   19.42 %
+Docker        48 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 %
+YAML          33 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.54 %
+HTML          23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.76 %
+CSS           17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.32 %
 ```
 
 <!--END_SECTION:waka-->
