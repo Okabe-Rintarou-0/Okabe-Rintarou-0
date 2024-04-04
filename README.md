@@ -4,9 +4,8 @@
 
 Interesting projects I've finished:
 + [Minik8s](https://github.com/Okabe-Rintarou-0/Minik8s) <img align="center" src="https://img.shields.io/github/stars/Okabe-Rintarou-0/Minik8s" />
-+ [SJTU Canvas 小帮手](https://github.com/Okabe-Rintarou-0/SJTU-Canvas-Helper) <img align="center" src="https://img.shields.io/github/stars/Okabe-Rintarou-0/SJTU-Canvas-Helper" />
++ [SJTU Canvas Helper](https://github.com/Okabe-Rintarou-0/SJTU-Canvas-Helper) <img align="center" src="https://img.shields.io/github/stars/Okabe-Rintarou-0/SJTU-Canvas-Helper" /> <img align="center" src="https://img.shields.io/github/downloads/Okabe-Rintarou-0/SJTU-Canvas-Helper/total" />
 + [电子书城前端](https://github.com/Okabe-Rintarou-0/BookStore-Frontend) <img align="center" src="https://img.shields.io/github/stars/Okabe-Rintarou-0/BookStore-Frontend" />
-+ [电子书城前端（Vue）](https://github.com/Okabe-Rintarou-0/BookStore-Frontend-Vue) <img align="center" src="https://img.shields.io/github/stars/Okabe-Rintarou-0/BookStore-Frontend-Vue" /> 
 + [交大云盘迁移 CLI](https://github.com/Okabe-Rintarou-0/JboxTransferCLI) <img align="center" src="https://img.shields.io/github/stars/Okabe-Rintarou-0/JboxTransferCLI" />
 + [上海交通大学水源社区 client](https://github.com/Okabe-Rintarou-0/Shuiyuan-Client) <img align="center" src="https://img.shields.io/github/stars/Okabe-Rintarou-0/Shuiyuan-Client" />
 + [【2023战双新春会】住手啊！阿尔法你不要再打了！！](https://www.bilibili.com/video/BV1GG4y127S1) <img align="center" src="https://img.shields.io/badge/dynamic/json?label=views&query=$.data.stat.view&url=https://api.bilibili.com/x/web-interface/view?bvid=BV1GG4y127S1" />
