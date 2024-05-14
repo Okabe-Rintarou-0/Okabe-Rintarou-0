@@ -22,6 +22,7 @@ Some course notes and projects:
 
 Some open source contributions:
 + [qdrant/qdrant](https://github.com/qdrant/qdrant) <img align="center" src="https://img.shields.io/github/stars/qdrant/qdrant" />
++ [kubewharf/godel-scheduler](https://github.com/kubewharf/godel-scheduler) <img align="center" src="https://img.shields.io/github/stars/kubewharf/godel-scheduler" />
 + [binary-husky/gpt_academic](https://github.com/binary-husky/gpt_academic) <img align="center" src="https://img.shields.io/github/stars/binary-husky/gpt_academic" />
 + [SJTU-SE/awesome-interview](https://github.com/SJTU-SE/awesome-interview) <img align="center" src="https://img.shields.io/github/stars/SJTU-SE/awesome-interview" />
 + [SJTU-SE/awesome-se](https://github.com/SJTU-SE/awesome-se) <img align="center" src="https://img.shields.io/github/stars/SJTU-SE/awesome-se" />
