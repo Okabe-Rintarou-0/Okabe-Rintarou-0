@@ -28,7 +28,7 @@ Some open source contributions:
 + [SJTU-SE/awesome-interview](https://github.com/SJTU-SE/awesome-interview) <img align="center" src="https://img.shields.io/github/stars/SJTU-SE/awesome-interview" />
 + [SJTU-SE/awesome-se](https://github.com/SJTU-SE/awesome-se) <img align="center" src="https://img.shields.io/github/stars/SJTU-SE/awesome-se" />
 
-Contact me: [Email](mailto:923048992@sjtu.edu.cn) | [Bilibili](https://space.bilibili.com/5200237)
+Contact me: [Email](mailto:923048992@sjtu.edu.cn) | [Bilibili](https://space.bilibili.com/5200237) ｜ [xiaohongshu(小红书)](https://www.xiaohongshu.com/user/profile/621ed0df00000000100059cf)
 
 ----
 
