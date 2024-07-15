@@ -62,10 +62,9 @@ Contact me: [Email](mailto:923048992@sjtu.edu.cn) | [Bilibili](https://space.bil
 <!--START_SECTION:waka-->
 
 ```text
-Markdown          4 hrs 36 mins   █████████████████▓░░░░░░░   70.34 %
-C                 50 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.75 %
-Go                25 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.61 %
-Other             19 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.95 %
+Markdown          4 hrs 33 mins   █████████████████░░░░░░░░   68.60 %
+C                 57 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.40 %
+Other             22 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.55 %
 ```
 
 <!--END_SECTION:waka-->
