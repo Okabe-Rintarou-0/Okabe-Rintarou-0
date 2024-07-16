@@ -52,6 +52,7 @@ Contact me: [Email](mailto:923048992@sjtu.edu.cn) | [Bilibili](https://space.bil
 ----
 
 ### Learning
+<code><img height="50" src="https://ebpf.io/static/logo-black-98b7a1413b4a74ed961d292cf83da82e.svg"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/042e36c55d4d757621dedc4f03108213fbb57ec4/frameworks/vuejs.svg"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/042e36c55d4d757621dedc4f03108213fbb57ec4/programming%20languages/rust.svg"></code>
 
