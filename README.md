@@ -49,7 +49,7 @@ Contact me: [Email](mailto:923048992@sjtu.edu.cn) | [Bilibili](https://space.bil
 <code><img height="50" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/tools/unity.png?raw=true"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/f994c418a134b58c4aec11152f6a4a33fa89da26/programming%20languages/dart.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg"></code>
-
+<code><img height="50" src="https://github.com/user-attachments/assets/de491589-c422-499f-8aca-862f2fe04e38"/></code>
 ----
 
 ### Learning
