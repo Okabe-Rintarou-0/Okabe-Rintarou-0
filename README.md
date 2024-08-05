@@ -66,12 +66,12 @@ Contact me: [Email](mailto:923048992@sjtu.edu.cn) | [Bilibili](https://space.bil
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   5 hrs 42 mins   ███████████████▒░░░░░░░░░   61.38 %
-C++          2 hrs 30 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.97 %
-Go           48 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.77 %
-C            7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.28 %
-Markdown     4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.81 %
-TypeScript   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.71 %
+JavaScript   5 hrs 42 mins   ███████████████▓░░░░░░░░░   63.32 %
+C++          2 hrs 30 mins   ███████░░░░░░░░░░░░░░░░░░   27.83 %
+Go           31 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.87 %
+C            7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.32 %
+Markdown     4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.84 %
+TypeScript   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.73 %
 ```
 
 <!--END_SECTION:waka-->
