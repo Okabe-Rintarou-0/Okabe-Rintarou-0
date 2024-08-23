@@ -66,10 +66,12 @@ Contact me: [Email](mailto:923048992@sjtu.edu.cn) | [Bilibili](https://space.bil
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   5 mins          █████████████████████▓░░░   86.39 %
-Markdown     0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 %
-JavaScript   0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 %
-Other        0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.29 %
+YAML         37 mins         ████████████████░░░░░░░░░   63.80 %
+Go           14 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.16 %
+TypeScript   5 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.25 %
+Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 %
+JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
 ```
 
 <!--END_SECTION:waka-->
