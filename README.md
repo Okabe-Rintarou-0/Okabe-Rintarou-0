@@ -66,12 +66,10 @@ Contact me: [Email](mailto:923048992@sjtu.edu.cn) | [Bilibili](https://space.bil
 <!--START_SECTION:waka-->
 
 ```text
-Markdown      58 mins         ████████████████▓░░░░░░░░   66.10 %
-YAML          25 mins         ███████░░░░░░░░░░░░░░░░░░   28.54 %
-Python        2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.11 %
-Git Config    1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.45 %
-Image (svg)   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 %
-Bash          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
+Markdown      1 hr 26 mins    ████████████████████████░   95.35 %
+Python        2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.05 %
+YAML          0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.99 %
+Image (svg)   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 %
 ```
 
 <!--END_SECTION:waka-->
