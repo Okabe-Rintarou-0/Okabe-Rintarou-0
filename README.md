@@ -61,7 +61,7 @@ Contact me: [Email](mailto:923048992@sjtu.edu.cn) | [Bilibili](https://space.bil
 
 ### "Touch-Fish" Record
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Okabe-Rintarou-0&layout=compact&langs_count=12&hide=makefile,tex,perl,shell" width="250" align="right"/>
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Okabe_Rintarou_0&layout=compact&langs_count=12&hide=makefile,tex,perl,shell" width="250" align="right"/>
 
 <!--START_SECTION:waka-->
 
@@ -75,5 +75,6 @@ Makefile     10 mins         ▒░░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
+
 
 
