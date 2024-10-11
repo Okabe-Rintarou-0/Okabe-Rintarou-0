@@ -48,9 +48,8 @@ Contact me: [Email](mailto:923048992@sjtu.edu.cn) | [Bilibili](https://space.bil
 <!--START_SECTION:waka-->
 
 ```text
-Rust         10 mins         ██████████████████▓░░░░░░   74.21 %
-TypeScript   3 mins          ██████░░░░░░░░░░░░░░░░░░░   23.85 %
-Other        0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.78 %
+Rust         6 mins          ████████████████▓░░░░░░░░   67.11 %
+TypeScript   3 mins          ████████▒░░░░░░░░░░░░░░░░   32.89 %
 ```
 
 <!--END_SECTION:waka-->
