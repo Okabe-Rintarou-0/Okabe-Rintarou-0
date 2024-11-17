@@ -48,12 +48,12 @@ Contact me: [Email](mailto:923048992@sjtu.edu.cn) | [Bilibili](https://space.bil
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   53 mins         ██████████▒░░░░░░░░░░░░░░   41.40 %
-Go           30 mins         ██████░░░░░░░░░░░░░░░░░░░   23.89 %
-Docker       11 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.86 %
-YAML         9 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.48 %
-Markdown     9 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.35 %
-Makefile     7 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.62 %
+TypeScript   1 hr            ███████████▒░░░░░░░░░░░░░   45.12 %
+Go           30 mins         █████▓░░░░░░░░░░░░░░░░░░░   23.16 %
+Docker       11 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.59 %
+YAML         9 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.25 %
+Markdown     9 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.12 %
+Makefile     7 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.45 %
 ```
 
 <!--END_SECTION:waka-->
