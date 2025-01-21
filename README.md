@@ -48,10 +48,10 @@ Contact me: [Email](mailto:923048992@sjtu.edu.cn) | [Bilibili](https://space.bil
 <!--START_SECTION:waka-->
 
 ```text
-Go           13 hrs 38 mins  ████████████████░░░░░░░░░   64.13 %
-TypeScript   5 hrs 43 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.93 %
-Rust         49 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 %
-Other        12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.01 %
+Go           13 hrs 38 mins  ███████████████▒░░░░░░░░░   60.83 %
+TypeScript   6 hrs 50 mins   ███████▓░░░░░░░░░░░░░░░░░   30.52 %
+Rust         49 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 %
+Other        12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.96 %
 ```
 
 <!--END_SECTION:waka-->
