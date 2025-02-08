@@ -48,7 +48,9 @@ Contact me: [Email](mailto:923048992@sjtu.edu.cn) | [Bilibili](https://space.bil
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   1 hr 8 mins     █████████████████████████   100.00 %
+Python       15 mins         █████████████████████▓░░░   86.67 %
+SQL          2 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   12.95 %
+TypeScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
 ```
 
 <!--END_SECTION:waka-->
