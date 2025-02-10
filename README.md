@@ -48,9 +48,11 @@ Contact me: [Email](mailto:923048992@sjtu.edu.cn) | [Bilibili](https://space.bil
 <!--START_SECTION:waka-->
 
 ```text
-Python       15 mins         █████████████████████▓░░░   86.67 %
-SQL          2 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   12.95 %
-TypeScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
+C++          24 mins         ███████████▓░░░░░░░░░░░░░   47.32 %
+Python       15 mins         ███████▓░░░░░░░░░░░░░░░░░   31.03 %
+Go           7 mins          ████░░░░░░░░░░░░░░░░░░░░░   15.46 %
+SQL          2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 %
+TypeScript   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.56 %
 ```
 
 <!--END_SECTION:waka-->
