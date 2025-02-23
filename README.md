@@ -48,12 +48,12 @@ Contact me: [Email](mailto:923048992@sjtu.edu.cn) | [Bilibili](https://space.bil
 <!--START_SECTION:waka-->
 
 ```text
-YAML         11 mins         ███████████▒░░░░░░░░░░░░░   45.12 %
-JavaScript   6 mins          ██████░░░░░░░░░░░░░░░░░░░   24.48 %
-Bash         4 mins          ████▒░░░░░░░░░░░░░░░░░░░░   16.72 %
-TypeScript   2 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.16 %
-JSON         0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 %
-Docker       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 %
+YAML         11 mins         ██████████░░░░░░░░░░░░░░░   39.85 %
+JavaScript   6 mins          █████▒░░░░░░░░░░░░░░░░░░░   21.63 %
+Bash         4 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.77 %
+C++          3 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.67 %
+TypeScript   2 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.20 %
+JSON         0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.06 %
 ```
 
 <!--END_SECTION:waka-->
