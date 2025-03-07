@@ -48,11 +48,12 @@ Contact me: [Email](mailto:923048992@sjtu.edu.cn) | [Bilibili](https://space.bil
 <!--START_SECTION:waka-->
 
 ```text
-C++          2 hrs 9 mins    ██████████████████▓░░░░░░   74.84 %
-Markdown     37 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.62 %
-CMake        5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.31 %
-Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+C++          2 hrs 11 mins   ███████████████▓░░░░░░░░░   62.99 %
+Markdown     40 mins         █████░░░░░░░░░░░░░░░░░░░░   19.54 %
+Go           22 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.84 %
+Python       7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 %
+CMake        5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.74 %
+Makefile     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
 ```
 
 <!--END_SECTION:waka-->
