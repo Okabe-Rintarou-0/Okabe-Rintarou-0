@@ -8,7 +8,7 @@ About me:
 - 💻 Major in Software Engineering, pursing master degree
 - 🔧 Full-Stack developer
 - 💼 Internship at ByteDance
-- ❤️ Enjoying writing my toy projects
+- ❤️ Enjoy writing my toy projects
 - 🔭 Love stargazing
 
 <!-- [](https://pixel-profile.vercel.app/api/github-stats?username=Okabe-Rintarou-0) -->
