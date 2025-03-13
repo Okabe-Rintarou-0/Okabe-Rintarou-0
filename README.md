@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+> I couldn't decide whether the blue was a closer match to the sky or to the sea. Neither, really.
+> 
+> Zima Blue, it was a precise thing.
+
 About me:
 - 💻 Major in Software Engineering, pursing master degree
 - 🔧 Full-Stack developer
@@ -7,7 +11,7 @@ About me:
 - ❤️ Enjoying writing my toy projects
 - 🔭 Love stargazing
 
-![](https://pixel-profile.vercel.app/api/github-stats?username=Okabe-Rintarou-0)
+<!-- [](https://pixel-profile.vercel.app/api/github-stats?username=Okabe-Rintarou-0) -->
 
 Interesting projects I've finished:
 + [Minik8s](https://github.com/Okabe-Rintarou-0/Minik8s) <img align="center" src="https://img.shields.io/github/stars/Okabe-Rintarou-0/Minik8s" />
