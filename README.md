@@ -52,8 +52,8 @@ Contact me: [Email](mailto:923048992@sjtu.edu.cn) | [Bilibili](https://space.bil
 <!--START_SECTION:waka-->
 
 ```text
-C++        2 hrs 43 mins   ██████████████████▓░░░░░░   74.26 %
-Markdown   56 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.74 %
+C++        1 hr 21 mins    ██████████████▓░░░░░░░░░░   58.94 %
+Markdown   56 mins         ██████████▒░░░░░░░░░░░░░░   41.06 %
 ```
 
 <!--END_SECTION:waka-->
