@@ -7,7 +7,7 @@
 About me:
 - 💻 Major in Software Engineering, pursing master degree
 - 🔧 Full-Stack developer
-- 💼 Internship at ByteDance
+- 💼 Internship at ByteDance, will join Alibaba Cloud this summer
 - ❤️ Enjoy writing my toy projects
 - 🔭 Love stargazing
 
