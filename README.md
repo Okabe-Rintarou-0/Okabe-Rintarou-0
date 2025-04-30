@@ -5,11 +5,12 @@
 > Zima Blue, it was a precise thing.
 
 About me:
-- 💻 Major in Software Engineering, pursing master degree
+- 💻 Majored in Software Engineering, now pursuing a master's degree
 - 🔧 Full-Stack developer
-- 💼 Internship at ByteDance, will join Alibaba Cloud this summer
-- ❤️ Enjoy writing my toy projects
+- 💼 Interned at ByteDance, and will join Alibaba Cloud this summer
+- ❤️ Enjoy working on my personal projects
 - 🔭 Love stargazing
+
 
 <!-- [](https://pixel-profile.vercel.app/api/github-stats?username=Okabe-Rintarou-0) -->
 
