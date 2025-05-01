@@ -10,6 +10,7 @@ About me:
 - 💼 Interned at ByteDance, and will join Alibaba Cloud this summer
 - ❤️ Enjoy working on my personal projects
 - 🔭 Love stargazing
+- 🎵 Like Yorushika, Jay Chou, Avril Lavigne
 
 
 <!-- [](https://pixel-profile.vercel.app/api/github-stats?username=Okabe-Rintarou-0) -->
