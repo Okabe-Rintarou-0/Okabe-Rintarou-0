@@ -10,8 +10,8 @@ About me:
 - 💼 Interned at ByteDance, and will join Alibaba Cloud this summer
 - ❤️ Enjoy working on my personal projects
 - 🔭 Love stargazing
-- 🎵 Like Yorushika, Jay Chou, Avril Lavigne
-
+- 🎵 Yorushika, Jay Chou, Avril Lavigne
+- 🎬 Christopher Nolan's films, "Love Death + Robots"
 
 <!-- [](https://pixel-profile.vercel.app/api/github-stats?username=Okabe-Rintarou-0) -->
 
