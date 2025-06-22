@@ -54,11 +54,11 @@ Contact me: [Email](mailto:923048992@sjtu.edu.cn) | [Bilibili](https://space.bil
 <!--START_SECTION:waka-->
 
 ```text
-C++          3 hrs 8 mins    ██████████████████▓░░░░░░   74.32 %
-YAML         23 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.39 %
-Markdown     14 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.58 %
-TypeScript   12 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.97 %
-Other        7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.10 %
+C++          21 mins         ████████░░░░░░░░░░░░░░░░░   31.90 %
+Markdown     14 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.70 %
+TypeScript   12 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.57 %
+YAML         9 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.94 %
+Other        7 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   11.19 %
 ```
 
 <!--END_SECTION:waka-->
