@@ -54,8 +54,7 @@ Contact me: [Email](mailto:923048992@sjtu.edu.cn) | [Bilibili](https://space.bil
 <!--START_SECTION:waka-->
 
 ```text
-C++        0 secs          ████████████████░░░░░░░░░   64.34 %
-Markdown   0 secs          █████████░░░░░░░░░░░░░░░░   35.66 %
+C++   0 secs          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
