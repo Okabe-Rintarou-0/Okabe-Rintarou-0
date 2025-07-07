@@ -7,7 +7,7 @@
 About me:
 - 💻 Majored in Software Engineering, now pursuing a master's degree
 - 🔧 Full-Stack developer
-- 💼 Working in @aliyun, ex-interned at @bytedance, @morganstanley
+- 💼 Working at @aliyun, ex-interned at @bytedance, @morganstanley
 - ❤️ Enjoy working on my personal projects
 - 🔭 Love stargazing
 - 🎵 Yorushika, Jay Chou, Avril Lavigne
