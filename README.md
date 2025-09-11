@@ -5,9 +5,7 @@
 > Zima Blue, it was a precise thing.
 
 About me:
-- 💻 Majored in Software Engineering, now pursuing a master's degree
-- 🔧 Full-Stack developer
-- 💼 Working at @aliyun, ex-interned at @bytedance, @morganstanley
+- 💼 Incoming intern @Minghong Investment, ex-interned @aliyun, @bytedance and @morganstanley
 - ❤️ Enjoy working on my personal projects
 - 🔭 Love stargazing
 - 🎵 Yorushika, Jay Chou, Avril Lavigne
