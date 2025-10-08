@@ -30,11 +30,11 @@ Contact me: [Email](mailto:923048992@sjtu.edu.cn) | [Bilibili](https://space.bil
 <!--START_SECTION:waka-->
 
 ```text
-Python       6 hrs 5 mins    ███████████████████▓░░░░░   78.34 %
-Bash         34 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.48 %
-Rust         16 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 %
-YAML         15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.22 %
-Other        14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.16 %
+Python       9 hrs 53 mins   ████████████████████▒░░░░   81.79 %
+Bash         1 hr 1 min      ██░░░░░░░░░░░░░░░░░░░░░░░   08.46 %
+Rust         16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.31 %
+YAML         15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.07 %
+Other        14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.04 %
 ```
 
 <!--END_SECTION:waka-->
