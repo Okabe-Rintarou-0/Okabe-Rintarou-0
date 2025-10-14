@@ -19,7 +19,7 @@ Interesting projects I've finished:
 + [【2023战双新春会】住手啊！阿尔法你不要再打了！！](https://www.bilibili.com/video/BV1GG4y127S1) <img align="center" src="https://img.shields.io/badge/dynamic/json?label=views&query=$.data.stat.view&url=https://api.bilibili.com/x/web-interface/view?bvid=BV1GG4y127S1" />
 + [【像素原神】肉鸽模式 游戏预告](https://www.bilibili.com/video/BV13v411g7zv) <img align="center" src="https://img.shields.io/badge/dynamic/json?label=views&query=$.data.stat.view&url=https://api.bilibili.com/x/web-interface/view?bvid=BV13v411g7zv" />
 
-Contact me: [Email](mailto:923048992@sjtu.edu.cn) | [Bilibili](https://space.bilibili.com/5200237)｜[xiaohongshu(小红书)](https://www.xiaohongshu.com/user/profile/621ed0df00000000100059cf)
+Contact me: [Resume](https://jr5jtit2y4.feishu.cn/wiki/Ri5WwTHAPiokT5kCj6LcTEsgn2T?from=from_copylink) | [Email](mailto:923048992@sjtu.edu.cn) | [Bilibili](https://space.bilibili.com/5200237)｜[xiaohongshu(小红书)](https://www.xiaohongshu.com/user/profile/621ed0df00000000100059cf)
 
 ----
 
