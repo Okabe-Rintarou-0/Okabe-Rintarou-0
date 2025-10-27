@@ -30,12 +30,12 @@ Contact me: [Resume](https://jr5jtit2y4.feishu.cn/wiki/Ri5WwTHAPiokT5kCj6LcTEsgn
 <!--START_SECTION:waka-->
 
 ```text
-Python       8 hrs 57 mins   ██████████████████████▓░░   91.13 %
-JSON         19 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 %
-Text         15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.65 %
-TypeScript   14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.38 %
-Rust         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
-Other        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
+Python       7 hrs 4 mins    ████████████████▒░░░░░░░░   65.00 %
+C            1 hr 35 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.63 %
+C++          1 hr 3 mins     ██▒░░░░░░░░░░░░░░░░░░░░░░   09.66 %
+Text         29 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 %
+TypeScript   14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.15 %
+Markdown     11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.77 %
 ```
 
 <!--END_SECTION:waka-->
