@@ -30,12 +30,7 @@ Contact me: [Resume](https://jr5jtit2y4.feishu.cn/wiki/Ri5WwTHAPiokT5kCj6LcTEsgn
 <!--START_SECTION:waka-->
 
 ```text
-C          1 hr 35 mins    █████████████░░░░░░░░░░░░   51.92 %
-C++        1 hr 3 mins     ████████▓░░░░░░░░░░░░░░░░   34.29 %
-Text       13 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.35 %
-Markdown   11 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.28 %
-JSON       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
-Java       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
