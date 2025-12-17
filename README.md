@@ -30,11 +30,11 @@ Contact me: [Resume](https://jr5jtit2y4.feishu.cn/wiki/Ri5WwTHAPiokT5kCj6LcTEsgn
 <!--START_SECTION:waka-->
 
 ```text
-Python     28 mins         ███████████████████████░░   91.57 %
-Makefile   1 min           █▒░░░░░░░░░░░░░░░░░░░░░░░   05.83 %
-C++        0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.04 %
-Tcl        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
-Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
+Python     31 mins         ███████████████████████░░   92.22 %
+Makefile   1 min           █▒░░░░░░░░░░░░░░░░░░░░░░░   05.29 %
+C++        0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.98 %
+Tcl        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
+Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
 ```
 
 <!--END_SECTION:waka-->
