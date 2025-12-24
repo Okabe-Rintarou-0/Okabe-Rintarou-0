@@ -30,8 +30,7 @@ Contact me: [Resume](https://jr5jtit2y4.feishu.cn/wiki/Ri5WwTHAPiokT5kCj6LcTEsgn
 <!--START_SECTION:waka-->
 
 ```text
-Python   3 mins          ████████████████████████▓   98.60 %
-C++      0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.40 %
+Rust   58 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
