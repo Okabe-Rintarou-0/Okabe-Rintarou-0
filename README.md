@@ -30,11 +30,11 @@ Contact me: [Resume](https://jr5jtit2y4.feishu.cn/wiki/Ri5WwTHAPiokT5kCj6LcTEsgn
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   3 hrs 21 mins   ████████████▒░░░░░░░░░░░░   48.85 %
-Rust         2 hrs 32 mins   █████████▒░░░░░░░░░░░░░░░   37.13 %
-JSON         23 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.78 %
-Markdown     11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.76 %
-Makefile     8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.98 %
+TypeScript   3 hrs 21 mins   ████████████▒░░░░░░░░░░░░   48.72 %
+Rust         2 hrs 32 mins   █████████▒░░░░░░░░░░░░░░░   37.03 %
+JSON         24 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.88 %
+Markdown     11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.75 %
+Makefile     8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.97 %
 Other        5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.37 %
 ```
 
