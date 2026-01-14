@@ -30,12 +30,7 @@ Contact me: [Resume](https://jr5jtit2y4.feishu.cn/wiki/Ri5WwTHAPiokT5kCj6LcTEsgn
 <!--START_SECTION:waka-->
 
 ```text
-Java         22 mins         ███████████░░░░░░░░░░░░░░   44.51 %
-Git Config   12 mins         ██████░░░░░░░░░░░░░░░░░░░   24.65 %
-Markdown     7 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   15.26 %
-Python       4 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.85 %
-Text         2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.66 %
-YAML         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.07 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
