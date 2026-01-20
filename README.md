@@ -30,7 +30,8 @@ Contact me: [Resume](https://jr5jtit2y4.feishu.cn/wiki/Ri5WwTHAPiokT5kCj6LcTEsgn
 <!--START_SECTION:waka-->
 
 ```text
-Markdown   4 mins          █████████████████████████   100.00 %
+Python     6 mins          ███████████████▓░░░░░░░░░   62.30 %
+Markdown   4 mins          █████████▒░░░░░░░░░░░░░░░   37.70 %
 ```
 
 <!--END_SECTION:waka-->
