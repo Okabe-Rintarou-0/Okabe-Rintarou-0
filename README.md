@@ -1,4 +1,4 @@
-Seek for peace and love.
+Look for peace and love.
 
 <!-- [](https://pixel-profile.vercel.app/api/github-stats?username=Okabe-Rintarou-0) -->
 
