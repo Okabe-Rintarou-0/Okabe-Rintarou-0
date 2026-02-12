@@ -30,7 +30,7 @@ Contact me: [Email](mailto:923048992@sjtu.edu.cn) | [Bilibili](https://space.bil
 <!--START_SECTION:waka-->
 
 ```text
-Python       11 hrs 40 mins  █████████████████████████   99.99 %
+Python       13 hrs 32 mins  █████████████████████████   99.99 %
 Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
