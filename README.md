@@ -1,15 +1,4 @@
-### Hi there 👋
-
-> I couldn't decide whether the blue was a closer match to the sky or to the sea. Neither, really.
-> 
-> Zima Blue, it was a precise thing.
-
-About me:
-- 💼 Incoming intern @Minghong Investment, ex-interned @aliyun, @bytedance and @morganstanley
-- ❤️ Enjoy working on my personal projects
-- 🔭 Love stargazing
-- 🎵 Yorushika, Jay Chou, Avril Lavigne
-- 🎬 Christopher Nolan's films, "Love Death + Robots"
+Seek for peace and love.
 
 <!-- [](https://pixel-profile.vercel.app/api/github-stats?username=Okabe-Rintarou-0) -->
 
