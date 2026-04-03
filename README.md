@@ -19,7 +19,7 @@ Contact me: [Email](mailto:923048992@sjtu.edu.cn)
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+YAML   6 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
