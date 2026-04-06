@@ -19,7 +19,7 @@ Contact me: [Email](mailto:923048992@sjtu.edu.cn)
 <!--START_SECTION:waka-->
 
 ```text
-Other        2 hrs 53 mins   ████████████████▓░░░░░░░░   66.40 %
+Other        4 hrs 3 mins    █████████████████░░░░░░░░   67.56 %
 ```
 
 <!--END_SECTION:waka-->
