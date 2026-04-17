@@ -19,9 +19,7 @@ Contact me: [Email](mailto:923048992@sjtu.edu.cn)
 <!--START_SECTION:waka-->
 
 ```text
-Python       18 mins         █████████▒░░░░░░░░░░░░░░░   36.99 %
-TypeScript   11 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.60 %
-Other        10 mins         █████▒░░░░░░░░░░░░░░░░░░░   20.70 %
+Other        41 mins         █████████▒░░░░░░░░░░░░░░░   36.96 %
 ```
 
 <!--END_SECTION:waka-->
