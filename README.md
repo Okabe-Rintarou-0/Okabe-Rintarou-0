@@ -19,7 +19,8 @@ Contact me: [Email](mailto:923048992@sjtu.edu.cn)
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+JSON    23 mins         ██████████░░░░░░░░░░░░░░░   40.47 %
+Other   20 mins         █████████░░░░░░░░░░░░░░░░   35.49 %
 ```
 
 <!--END_SECTION:waka-->
