@@ -23,10 +23,4 @@
 ---
 
 ### 📊 Coding Statistics
-
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Okabe_Rintarou_0&layout=compact&langs_count=16&hide=makefile,tex,perl,shell" width="250" align="right"/>
-
-<!--START_SECTION:waka-->
-
-```text
-No activity tracked
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Okabe_Rintarou_0&layout=compact&langs_count=16&hide=makefile,tex,perl,shell" width="60%"/>
