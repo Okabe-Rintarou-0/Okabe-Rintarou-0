@@ -1,12 +1,15 @@
+Look for peace and love.
+
 <!-- [](https://pixel-profile.vercel.app/api/github-stats?username=Okabe-Rintarou-0) -->
 
-> **TL;DR:** Full-stack & Infra engineer skilled in Cloud Native (CNCF maintainer), AI/LLM fundamentals, and cross-platform dev. Also an indie game enthusiast with projects featured in official galas.
+> **TL;DR:** Quant Dev passionate about Modern C++ optimization. Full-stack & Infra engineer skilled in Cloud Native (CNCF maintainer), AI/LLM fundamentals, and indie game development.
 
 ### 🚀 About Me
+* **Quant Dev & Performance:** Currently working as a Quant Dev, with a strong passion for low-latency and performance optimization using **Modern C++**.
 * **Cloud Native & Infra:** Built **Minik8s** (a mini distributed container orchestration system) from scratch. Active maintainer of CNCF projects (e.g., **Kmesh**).
 * **Application Dev:** Author of **SJTU Canvas Helper**, a popular cross-platform desktop app streamlining the Canvas LMS experience for students & TAs.
 * **Game Dev:** Passionate gamer and developer; created viral game projects featured in official Chinese New Year galas with great community feedback.
-* **Tech Stack:** Broad experience across mainstream languages, full-stack development, infrastructure engineering, and AI/LLM core concepts.
+* **Tech Stack:** Broad experience across mainstream languages (expert in C++), full-stack dev, infrastructure engineering, and AI/LLM core concepts.
 
 🌟 *If you like my work, feel free to star my projects, follow me, or reach out!*
 
